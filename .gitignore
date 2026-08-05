@@ -1,0 +1,13 @@
+.streamlit
+.git ignore
+usersAuth.json
+.venv
+__pycache__/
+*.pyc
+node_modules/
+package-lock.json
+package.json
+.env
+.env.*
+.DS_Store
+Thumbs.db

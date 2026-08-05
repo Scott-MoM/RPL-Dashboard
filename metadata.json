@@ -1,0 +1,6 @@
+{
+  "name": "Regional KPI Dashboard",
+  "description": "Mind Over Mountains Regional KPI Dashboard for reviewing KPIs, running custom reports, managing case studies, and event operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
