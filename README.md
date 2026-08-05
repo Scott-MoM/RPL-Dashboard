@@ -70,37 +70,6 @@ Access levels are strictly configured to align with organizational roles and com
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (v18 or higher recommended)
-- npm or yarn / bun package manager
-
-### Local Development
-
-1. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-
-2. **Run Dev Server**:
-   ```bash
-   npm run dev
-   ```
-   Open `http://localhost:3000` in your browser.
-
-3. **Build for Production**:
-   ```bash
-   npm run build
-   ```
-
-4. **Start Production Server**:
-   ```bash
-   npm run start
-   ```
-
----
 
 ## 📚 Documentation & Manuals
 
